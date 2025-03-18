@@ -1,4 +1,4 @@
-# EFT S9 Daniel Alarcón Poblete
+
 
 # Programa de administración de pasajes Línea Aérea TETINKA
 
